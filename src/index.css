@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bunny-coral: #ff7a53;
+    --color-bunny-coral-dark: #e86a45;
+    --color-bunny-blue: #3ad0eb;
+    --color-bunny-navy: #12143f;
+}
